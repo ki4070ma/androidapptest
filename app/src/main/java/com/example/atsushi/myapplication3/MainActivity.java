@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        String hoge = Foo.calculateFizzBuzz(1);
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -48,5 +50,24 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public static String calculateFizzBuzz2(int input){
+        int mod3 = input % 3;
+        int mod5 = input % 5;
+
+        if (mod3 == 0 && mod5 == 0) {
+            return "FizzBuzz";
+        }
+
+        if (mod3 == 0) {
+            return "Fizz";
+        }
+
+        if (mod5 == 0) {
+            return "Buzz";
+        }
+
+        return Integer.toString(input);
     }
 }

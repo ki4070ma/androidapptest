@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_41af216d68146bce6775b159a0471bc2aa612a1f.jar" />
+        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_94cf00bb10d064caa59c4fca65cd6b3460253ae3.jar" />
     </item>
     <item
-        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_ff08dc4f05d18571f65b39daddf32764a6613bdc.jar" />
-    </item>
-    <item
-        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_00981f31469b4420ae4b6d8fa060d5621cebf80e.jar" />
+        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_cf95d25138b00f436223fdde64cee58bf45d5e18.jar" />
+    </item>
+    <item
+        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_9ab4769cda0ec51ce4b03a7527cfff373102b9a1.jar" />
     </item>
     <item
         jar="/Users/atsushi/Downloads/adt-bundle-mac-x86_64-20130729/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_26a2595e4d107c0152f16292e9c0fa2519ffa127.jar" />
+        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_26a2595e4d107c0152f16292e9c0fa2519ffa127.jar" />
     </item>
     <item
-        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_c05f58079fe95819f5d05d2686bc2f9e539fccb6.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_723fa1a86bae15f5244dc5dd489cd8e9432d5551.jar" />
     </item>
     <item
-        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jar="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_ee9c55f9d549b018d3ed24204c0672623349ffaf.jar" />
+        <dex dex="/Users/atsushi/AndroidStudioProjects/MyApplication3/androidapptest/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_e153924389203651e85776319874123769948e8c.jar" />
     </item>
 
 </items>
