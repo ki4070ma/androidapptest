@@ -14,6 +14,6 @@ public class FooTest {
     @Test
     public void testCalculateFizzBuzz() throws Exception {
         String result = Foo.calculateFizzBuzz(1);
-        assertEquals("1", result);
+        assertEquals("0", result);
     }
 }
